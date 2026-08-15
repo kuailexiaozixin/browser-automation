@@ -1,0 +1,25 @@
+# 备份文件
+*.bak
+*.bak-*
+*.tmp
+*.old
+*~
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 环境/密钥
+.env
+.env.local
+*.pem
+
+# 运行时产物
+playwright-cli/.playwright-cli/
+**/node_modules/
+**/.playwright/
+
+# 个人记忆数据
+site-memory/memory/
+
