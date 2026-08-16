@@ -1,0 +1,11 @@
+- notes/operator/20260624-api-probe-sidepanel-workflow.md: Playwright CDP 连接 Edge 扩展 sidepanel 的操作流程
+- notes/operator/20260702-wps-open-platform-python-integration.md: WPS开放平台文档检索与Python集成方案整理
+- notes/operator/20260702-wps-jsapi-vb-exploration.md: WPS JSAPI VB交互探索记录
+- notes/operator/20260712-tech-docs-scraping-pattern.md: 技术文档网站结构化抓取（导航识别、内容定位、批量提取、demo过滤）
+- notes/operator/20260712-github-readme-cdn-scraping-pattern.md: GitHub README 与 CDN 包信息抓取（API vs 页面解析、CDN 文件枚举、版本获取）
+- notes/operator/20260801-wps-bbs-like-workflow.md: bbs.wps.cn 帖子点赞按钮定位与点击，避免误点收藏按钮
+- notes/operator/20260812-bbs-home-title-extraction.md: 用 playwright-cli 与 playwright-mcp 提取 bbs.wps.cn 首页帖子标题的完整可重放流程
+- notes/operator/20260812-playwright-mcp-extension-edge.md: playwright-mcp 用 --extension 扩展模式连接 Edge 的完整流程（关键：需指定 Edge 路径）
+- notes/operator/20260812-playwright-cli-extension-edge.md: playwright-cli 用 attach --extension 扩展模式连接 Edge 的完整流程（自动识别 Edge，无需指定路径）
+- notes/operator/20260812-wechat-mp-empty-shell.md: 微信文章自动化读取受限与 hermes 浏览器后端判定
+- notes/operator/20260814-hermes-webui-start-bat-playwright-extension.md: 用 start-webui.bat 启动 Hermes WebUI + playwright-cli 扩展模式连接 Edge 测试的完整流程（含 GBK/清PYTHONHOME两大坑）

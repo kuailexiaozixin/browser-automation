@@ -1,0 +1,175 @@
+- generic [ref=f1e1]:
+  - generic [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - generic [ref=f1e4]: Hermes Desktop
+      - button "＋ 新对话" [ref=f1e6] [cursor=pointer]
+      - textbox "搜索会话" [ref=f1e8]:
+        - /placeholder: "搜索会话 / #标签"
+      - button "⭳ 导入会话" [ref=f1e9] [cursor=pointer]
+    - generic [ref=f1e10]:
+      - generic [ref=f1e11]: 对话
+      - button "💬 对话" [ref=f1e12] [cursor=pointer]:
+        - generic [ref=f1e13]: 💬
+        - generic [ref=f1e14]: 对话
+      - generic [ref=f1e15]: 功能
+      - button "🧩 技能" [ref=f1e16] [cursor=pointer]:
+        - generic [ref=f1e17]: 🧩
+        - generic [ref=f1e18]: 技能
+      - button "🤖 模型" [ref=f1e19] [cursor=pointer]:
+        - generic [ref=f1e20]: 🤖
+        - generic [ref=f1e21]: 模型
+      - button "🔧 工具" [ref=f1e22] [cursor=pointer]:
+        - generic [ref=f1e23]: 🔧
+        - generic [ref=f1e24]: 工具
+      - button "⚙ MCP" [ref=f1e25] [cursor=pointer]:
+        - generic [ref=f1e26]: ⚙
+        - generic [ref=f1e27]: MCP
+      - button "🧩 插件" [ref=f1e28] [cursor=pointer]:
+        - generic [ref=f1e29]: 🧩
+        - generic [ref=f1e30]: 插件
+      - generic [ref=f1e31]: 知识
+      - button "🧠 记忆管理" [ref=f1e32] [cursor=pointer]:
+        - generic [ref=f1e33]: 🧠
+        - generic [ref=f1e34]: 记忆管理
+      - button "✨ Soul 人格" [ref=f1e35] [cursor=pointer]:
+        - generic [ref=f1e36]: ✨
+        - generic [ref=f1e37]: Soul 人格
+      - button "📚 LLM Wiki" [ref=f1e38] [cursor=pointer]:
+        - generic [ref=f1e39]: 📚
+        - generic [ref=f1e40]: LLM Wiki
+      - generic [ref=f1e41]: 工作区
+      - button "📂 文件浏览器" [ref=f1e42] [cursor=pointer]:
+        - generic [ref=f1e43]: 📂
+        - generic [ref=f1e44]: 文件浏览器
+      - generic [ref=f1e45]: 接入
+      - button "📡 远程渠道" [ref=f1e46] [cursor=pointer]:
+        - generic [ref=f1e47]: 📡
+        - generic [ref=f1e48]: 远程渠道
+      - button "📋 Kanban" [ref=f1e49] [cursor=pointer]:
+        - generic [ref=f1e50]: 📋
+        - generic [ref=f1e51]: Kanban
+      - generic [ref=f1e52]: 自动化
+      - button "⏰ 定时任务" [ref=f1e53] [cursor=pointer]:
+        - generic [ref=f1e54]: ⏰
+        - generic [ref=f1e55]: 定时任务
+      - button "🔁 循环" [ref=f1e56] [cursor=pointer]:
+        - generic [ref=f1e57]: 🔁
+        - generic [ref=f1e58]: 循环
+      - button "👥 委派" [ref=f1e59] [cursor=pointer]:
+        - generic [ref=f1e60]: 👥
+        - generic [ref=f1e61]: 委派
+      - generic [ref=f1e62]: 系统
+      - button "⚙ 系统提示词" [ref=f1e63] [cursor=pointer]:
+        - generic [ref=f1e64]: ⚙
+        - generic [ref=f1e65]: 系统提示词
+      - button "📜 日志" [ref=f1e66] [cursor=pointer]:
+        - generic [ref=f1e67]: 📜
+        - generic [ref=f1e68]: 日志
+      - button "🔣 结构化输出" [ref=f1e69] [cursor=pointer]:
+        - generic [ref=f1e70]: 🔣
+        - generic [ref=f1e71]: 结构化输出
+      - generic [ref=f1e72]: 高级
+      - button "🎯 目标" [ref=f1e73] [cursor=pointer]:
+        - generic [ref=f1e74]: 🎯
+        - generic [ref=f1e75]: 目标
+      - button "📸 快照" [ref=f1e76] [cursor=pointer]:
+        - generic [ref=f1e77]: 📸
+        - generic [ref=f1e78]: 快照
+      - button "🔄 MOA" [ref=f1e79] [cursor=pointer]:
+        - generic [ref=f1e80]: 🔄
+        - generic [ref=f1e81]: MOA
+      - button "📋 项目" [ref=f1e82] [cursor=pointer]:
+        - generic [ref=f1e83]: 📋
+        - generic [ref=f1e84]: 项目
+      - button "📦 捆绑包" [ref=f1e85] [cursor=pointer]:
+        - generic [ref=f1e86]: 📦
+        - generic [ref=f1e87]: 捆绑包
+      - button "🔐 安全审计" [ref=f1e88] [cursor=pointer]:
+        - generic [ref=f1e89]: 🔐
+        - generic [ref=f1e90]: 安全审计
+      - generic [ref=f1e91]: 工具
+      - button "🔧 蓝图" [ref=f1e92] [cursor=pointer]:
+        - generic [ref=f1e93]: 🔧
+        - generic [ref=f1e94]: 蓝图
+      - button "📊 批量处理" [ref=f1e95] [cursor=pointer]:
+        - generic [ref=f1e96]: 📊
+        - generic [ref=f1e97]: 批量处理
+      - button "📜 旅程" [ref=f1e98] [cursor=pointer]:
+        - generic [ref=f1e99]: 📜
+        - generic [ref=f1e100]: 旅程
+      - button "📁 备份" [ref=f1e101] [cursor=pointer]:
+        - generic [ref=f1e102]: 📁
+        - generic [ref=f1e103]: 备份
+      - button "💾 状态快照" [ref=f1e104] [cursor=pointer]:
+        - generic [ref=f1e105]: 💾
+        - generic [ref=f1e106]: 状态快照
+      - button "👤 配置管理" [ref=f1e107] [cursor=pointer]:
+        - generic [ref=f1e108]: 👤
+        - generic [ref=f1e109]: 配置管理
+      - button "🔍 策展" [ref=f1e110] [cursor=pointer]:
+        - generic [ref=f1e111]: 🔍
+        - generic [ref=f1e112]: 策展
+      - button "📡 路由" [ref=f1e113] [cursor=pointer]:
+        - generic [ref=f1e114]: 📡
+        - generic [ref=f1e115]: 路由
+    - generic [ref=f1e117] [cursor=pointer]:
+      - checkbox "全选" [ref=f1e118]
+      - generic [ref=f1e119]: 全选
+    - generic "拖动调整导航区/会话区高度" [ref=f1e120]
+    - generic [ref=f1e121]:
+      - generic [ref=f1e122]: 更早
+      - generic [ref=f1e123] [cursor=pointer]:
+        - checkbox [ref=f1e124]
+        - generic [ref=f1e125]: 新对话
+  - generic "拖动调整侧栏宽度" [ref=f1e126]
+  - generic [ref=f1e127]:
+    - text: 问点什么…（Enter 发送，Shift+Enter 换行，/ 唤起指令；拖文件到此处上传）
+    - generic [ref=f1e179]:
+      - generic [ref=f1e180]: 记忆管理（memories/）
+      - generic [ref=f1e181]: MEMORY.md 记录环境事实与项目约定；USER.md 记录对用户的了解。条目以 § 分隔，记忆循环开启后按会话注入。
+      - generic [ref=f1e182]:
+        - generic [ref=f1e183]: 记忆 Provider
+        - generic [ref=f1e184]:
+          - combobox [ref=f1e185]:
+            - option "byterover"
+            - option "hindsight"
+            - option "holographic（当前）"
+            - option "honcho"
+            - option "mem0"
+            - option "openviking"
+            - option "retaindb"
+            - option "supermemory" [selected]
+          - button "切换" [active] [ref=f1e186] [cursor=pointer]
+          - generic [ref=f1e187]: 当前：holographic
+      - generic [ref=f1e188]:
+        - generic [ref=f1e189]: 向量/语义检索（holographic）
+        - generic [ref=f1e190]:
+          - textbox "输入查询，按语义检索记忆…" [ref=f1e191]: 数据库连接配置
+          - button "检索" [ref=f1e192] [cursor=pointer]
+        - generic [ref=f1e217]: 未找到相关记忆
+      - generic [ref=f1e193]:
+        - generic [ref=f1e194]: 分层查看（记忆文件 / 记忆事实 / provider）
+        - button "加载分层" [ref=f1e195] [cursor=pointer]
+        - generic [ref=f1e214]:
+          - generic [ref=f1e215]: "Active Provider: holographic"
+          - generic [ref=f1e216]: "记忆事实（holographic）: 0 条"
+      - textbox "搜索记忆文件名/内容…" [ref=f1e196]
+      - generic [ref=f1e197]:
+        - generic [ref=f1e198]:
+          - generic [ref=f1e199]:
+            - generic [ref=f1e200]: MEMORY.md
+            - generic [ref=f1e201]: 0 条
+          - textbox [ref=f1e202]
+          - button "保存 MEMORY.md" [ref=f1e204] [cursor=pointer]
+        - generic [ref=f1e205]:
+          - generic [ref=f1e206]:
+            - generic [ref=f1e207]: USER.md
+            - generic [ref=f1e208]: 0 条
+          - textbox [ref=f1e209]
+          - button "保存 USER.md" [ref=f1e211] [cursor=pointer]
+      - button "⭳ 导出记忆 (JSON)" [ref=f1e213] [cursor=pointer]
+  - generic [ref=f1e219]: 切换失败：非法记忆文件名
+  - generic [ref=f1e171]:
+    - text: set 限制解除
+    - checkbox [ref=f1e172] [cursor=pointer]
+  - button "Open DS++ Chat" [ref=f1e173] [cursor=pointer]
