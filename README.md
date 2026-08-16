@@ -25,15 +25,15 @@
 
 | 模块 | 说明 |
 |------|------|
-| [`agent-browser`](agent-browser/) | 面向 AI 代理的高效浏览器自动化 CLI（CDP 直连，快照式交互） |
-| [`browser-harness`](browser-harness/) | 极简自愈式浏览器套件（CDP）+ 领域技能工作区（domain-skills） |
-| [`browser-use`](browser-use/) | 基于 CDP 的直接浏览器控制，用于交互、抓取、测试 |
-| [`Chrome-DevTools-MCP`](Chrome-DevTools-MCP/) | Chrome DevTools 协议 MCP 调试子技能集 |
-| [`playwright-cli`](playwright-cli/) | Playwright 驱动的浏览器交互与网页测试 CLI |
-| [`playwright-mcp`](playwright-mcp/) | Playwright MCP 服务（STDIO，`@playwright/mcp`） |
-| [`Scrapling`](Scrapling/) | 网页抓取（静态/动态/无头/反爬绕过），含 Spider 框架 |
-| [`webwright`](webwright/) | 代码即动作（code-as-action）的网页任务工作流 |
-| [`site-memory`](site-memory/) | 站点记忆子系统，跨会话上下文保持 |
+| [`agent-browser`](skills/browser-automation/agent-browser/) | 面向 AI 代理的高效浏览器自动化 CLI（CDP 直连，快照式交互） |
+| [`browser-harness`](skills/browser-automation/browser-harness/) | 极简自愈式浏览器套件（CDP）+ 领域技能工作区（domain-skills） |
+| [`browser-use`](skills/browser-automation/browser-use/) | 基于 CDP 的直接浏览器控制，用于交互、抓取、测试 |
+| [`Chrome-DevTools-MCP`](skills/browser-automation/Chrome-DevTools-MCP/) | Chrome DevTools 协议 MCP 调试子技能集 |
+| [`playwright-cli`](skills/browser-automation/playwright-cli/) | Playwright 驱动的浏览器交互与网页测试 CLI |
+| [`playwright-mcp`](skills/browser-automation/playwright-mcp/) | Playwright MCP 服务（STDIO，`@playwright/mcp`） |
+| [`scrapling`](skills/browser-automation/scrapling/) | 网页抓取（静态/动态/无头/反爬绕过），含 Spider 框架 |
+| [`webwright`](skills/browser-automation/webwright/) | 代码即动作（code-as-action）的网页任务工作流 |
+| [`site-memory`](skills/browser-automation/site-memory/) | 站点记忆子系统，跨会话上下文保持 |
 
 ## 🚀 快速开始
 
